@@ -1,0 +1,45 @@
+:root {
+    /* color */
+  --color-bg: #19161e;
+  --color-bg-desat: #1C1C1C ;
+  --color-surface: #1F1B16;
+  --color-text: #EAF2FF;
+  --color-muted: #BAB3C7;
+  --color-dark:  #615675;
+  --color-accent: #B1C3F2;
+  --color-accent-2: #605574;
+  --color-accent-3: #BCBAFF;
+  --color-success: #C0A9E8;
+  --color-danger: #ef4444;
+  --color-active: #BAB3C7;
+  --color-active-2:#D9D6A0;
+  --color-visited: #A19A92;
+
+    /* spacing */ 
+    --space-0: 0; 
+    --space-1: 0.39rem; /* optionally 0.24 */
+    --space-2: 0.62rem; 
+    --space-3: 0.86rem; 
+    --space-4: 1rem; 
+    --space-5: 1.61rem; 
+    --space-6: 2rem; 
+    --space-7: 3rem;
+    --space-8: 4.17rem; 
+
+    /* radius & shadow */
+    --radius-s: 6px; 
+    --radius-m: 14px; /* or 12 */
+    --radius-l: 24px; 
+
+    /* typography */
+    --font-sans: 'Libre Franklin', sans-serif; 
+    --size-xs: 0.62rem; 
+    --size-s: 0.86rem; 
+    --size-m: 1rem; 
+    --size-l: 1.24rem; 
+    --size-xl: 1.61rem; 
+    --line: 1.5; 
+
+}
+
+

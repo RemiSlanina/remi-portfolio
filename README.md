@@ -3,6 +3,9 @@
 This is my personal portfolio website, built with [Vite](https://vitejs.dev/) + [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/).  
 It showcases some of my projects in **web design**/**web development** and **illustration**.
 
+> ⚠️ This portfolio is a Work in Progress (WIP).  
+> I’m actively developing and adding new projects.
+
 ---
 
 ## ✨ Features
@@ -40,18 +43,20 @@ npm run dev
 
 ## 📂 Project Structure
 
-├── public/ # Static assets (favicons, etc.)
+<!-- prettier-ignore-start -->
+
+```text
+├── public/              # Static assets (favicons, etc.)
 ├── src/
-│ ├── assets/ # Images, SVGs, icons
-│ ├── components/ # React components
-│ ├── styles/ # Global styles + tokens
-│ └── App.tsx # Main app
-├── vite.config.ts # Vite configuration
-└── tsconfig.json # TypeScript configuration
+│   ├── assets/          # Images, SVGs, icons
+│   ├── components/      # React components
+│   ├── styles/          # Global styles + tokens
+│   └── App.tsx          # Main app
+├── vite.config.ts       # Vite configuration
+└── tsconfig.json        # TypeScript configuration
+```
 
----
-
-📸 Screenshots
+## <!-- prettier-ignore-end -->
 
 ## 📸 Screenshots
 
